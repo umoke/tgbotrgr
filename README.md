@@ -32,5 +32,3 @@
 ## Контакты и ссылки
 
 - [Профиль GitHub](https://github.com/umoke)
-
-- [Email](123@gmail.com)
